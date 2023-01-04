@@ -110,7 +110,6 @@ PRODUCT_PACKAGES += \
     libdng_sdk.vendor
 
 PRODUCT_PACKAGES += \
-    libshim_watermark \
     libshim_utils
 
 # Charger
